@@ -1,0 +1,181 @@
+$date
+	Tue Aug 30 22:48:07 2022
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module Door_Controller_tb $end
+$var reg 1 ! Activate_tb $end
+$var reg 1 " UP_Max_tb $end
+$var reg 1 # DN_Max_tb $end
+$var reg 1 $ CLK_tb $end
+$var reg 1 % RST_tb $end
+$var wire 1 & UP_M_tb $end
+$var wire 1 ' DN_M_tb $end
+$scope module DUT $end
+$var parameter 2 ( IDLE $end
+$var parameter 2 ) Mv_Up $end
+$var parameter 2 * Mv_Dn $end
+$var wire 1 + CLK $end
+$var wire 1 , RST $end
+$var wire 1 - Activate $end
+$var wire 1 . Up_Max $end
+$var wire 1 / Dn_Max $end
+$var reg 1 0 Up_M $end
+$var reg 1 1 Dn_M $end
+$var reg 2 2 current_state [1:0] $end
+$var reg 2 3 next_state [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+1%
+00
+01
+bx 2
+b0 3
+b0 (
+b1 )
+b10 *
+0&
+0'
+1,
+0+
+0/
+0.
+0-
+$end
+#4
+1$
+1+
+b0 2
+#10
+0$
+0+
+#13
+1!
+1"
+1-
+1.
+b10 3
+#14
+1$
+1+
+b10 2
+11
+1'
+#20
+0$
+0+
+#23
+0!
+0"
+1#
+0-
+0.
+1/
+b0 3
+#24
+1$
+1+
+b0 2
+01
+0'
+#30
+0$
+0+
+#33
+1!
+1-
+b1 3
+#34
+1$
+1+
+b1 2
+10
+1&
+#40
+0$
+0+
+#43
+0!
+1"
+0#
+0-
+1.
+0/
+b0 3
+#44
+1$
+1+
+b0 2
+00
+0&
+#50
+0$
+0+
+#54
+1$
+1+
+#60
+0$
+0+
+#64
+1$
+1+
+#70
+0$
+0+
+#74
+1$
+1+
+#80
+0$
+0+
+#84
+1$
+1+
+#90
+0$
+0+
+#94
+1$
+1+
+#100
+0$
+0+
+#104
+1$
+1+
+#110
+0$
+0+
+#114
+1$
+1+
+#120
+0$
+0+
+#124
+1$
+1+
+#130
+0$
+0+
+#134
+1$
+1+
+#140
+0$
+0+
+#144
+1$
+1+

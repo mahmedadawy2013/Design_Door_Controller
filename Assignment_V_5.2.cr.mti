@@ -1,0 +1,15 @@
+{E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_5.2/Door_Contoller.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_5.2/Door_Contoller.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Door_Controller
+
+Top level modules:
+	Door_Controller
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_5.2/Door_Contoller_tb.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/Courses/My Assignment Verilog/Assignment_V_5.2/Door_Contoller_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Door_Controller_tb
+
+Top level modules:
+	Door_Controller_tb
+
+} {} {}}
